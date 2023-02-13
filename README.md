@@ -1,7 +1,8 @@
-## Bem-vindos ao meu perfil profissional GitHub \o/
+## Bem-vindos ao meu perfil profissional GitHub 👋
 
-Meu nome é Bruno, sou estudante da Trybe na Turma 31 - Tribo B. Estou aprendendo e me especializando em Desenvolvimento Web, a cada dia/aula que passsa me vejo mais apaixonado nessa área.
-Desde pequeno sempre fui fascinado com Tecnologia, não importa qual tipo. Fico impressionado como as tecnologias podem facilitar tanto a nossa vida. 
+Meu nome é Bruno, sou estudante de Desenvolvimento Web e cada dia que passsa me vejo mais apaixonado nessa área.
+
+🧑🏻‍💻 Desde pequeno sempre fui fascinado com Tecnologia, não importa qual tipo. Fico impressionado como as tecnologias podem facilitar tanto a nossa vida. 
 
 
 <br>
