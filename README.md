@@ -1,8 +1,8 @@
 ## Bem-vindos ao meu perfil profissional GitHub 👋
 
-Meu nome é Bruno, sou estudante de Desenvolvimento Web e cada dia que passsa me vejo mais apaixonado nessa área.
+*Meu nome é **Bruno Benunes**, sou estudante de Desenvolvimento Web na **Trybe** e cada dia que passsa me vejo mais apaixonado nessa área.*
 
-🧑🏻‍💻 Desde pequeno sempre fui fascinado com Tecnologia, não importa qual tipo. Fico impressionado como as tecnologias podem facilitar tanto a nossa vida. 
+🧑🏻‍💻 A cada dia mais impressionado com **Tecnologia**.
 
 
 <br>
